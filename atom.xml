@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://note.chendi.org/"/>
-  <updated>2019-03-21T06:12:12.589Z</updated>
+  <updated>2019-03-21T04:38:04.000Z</updated>
   <id>http://note.chendi.org/</id>
   
   <author>
@@ -15,6 +15,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/New%20folder/1%20-%20Copy%20(3)%20-%20Copy/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/New folder/1 - Copy (3) - Copy/</id>
+    <published>2019-03-21T06:32:17.130Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+      <category term="New folder" scheme="http://note.chendi.org/categories/Markdown/test/New-folder/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/New%20folder/1%20-%20Copy%20(2)/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/New folder/1 - Copy (2)/</id>
+    <published>2019-03-21T06:32:17.106Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+      <category term="New folder" scheme="http://note.chendi.org/categories/Markdown/test/New-folder/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/New%20folder/1%20-%20Copy%20(2)%20-%20Copy/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/New folder/1 - Copy (2) - Copy/</id>
+    <published>2019-03-21T06:32:17.078Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+      <category term="New folder" scheme="http://note.chendi.org/categories/Markdown/test/New-folder/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/1/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/1/</id>
+    <published>2019-03-21T06:32:17.044Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/1%20-%20Copy/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/1 - Copy/</id>
+    <published>2019-03-21T06:32:17.016Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/test/1%20-%20Copy%20(2)/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/test/1 - Copy (2)/</id>
+    <published>2019-03-21T06:32:16.992Z</published>
+    <updated>2019-03-21T04:38:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+      <category term="test" scheme="http://note.chendi.org/categories/Markdown/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://note.chendi.org/2019/03/20/Markdown/1/"/>
+    <id>http://note.chendi.org/2019/03/20/Markdown/1/</id>
+    <published>2019-03-21T06:32:16.971Z</published>
+    <updated>2019-03-21T04:40:55.162Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://note.chendi.org/categories/Markdown/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
