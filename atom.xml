@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://note.chendi.org/"/>
   <updated>2019-03-21T06:12:12.589Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://note.chendi.org/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/20/hello-world/"/>
-    <id>http://yoursite.com/2019/03/20/hello-world/</id>
+    <link href="http://note.chendi.org/2019/03/20/hello-world/"/>
+    <id>http://note.chendi.org/2019/03/20/hello-world/</id>
     <published>2019-03-21T06:12:12.589Z</published>
     <updated>2019-03-21T06:12:12.589Z</updated>
     
